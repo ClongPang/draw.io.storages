@@ -4,6 +4,94 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="L_Group" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="400" width="340" x="74" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="L_Tri" parent="L_Group" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="320" width="300" x="20" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L_Header" parent="L_Group" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" value="&lt;b&gt;ITEM PROFILING (LLM)&lt;/b&gt;&lt;br&gt;&lt;i&gt;Bottom-up Abstraction&lt;/i&gt;" vertex="1">
+          <mxGeometry height="50" width="210" x="65" as="geometry" />
+        </mxCell>
+        <mxCell id="L3_Box" parent="L_Group" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;arcSize=50;glass=0;shadow=0;" value="&lt;b&gt;L3: Schwartz Values&lt;/b&gt;&lt;br&gt;Achievement (Success)&lt;br&gt;Security (Hygiene)" vertex="1">
+          <mxGeometry height="50" width="150" x="95" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="L2_Box" parent="L_Group" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;L2: Function &amp; Scenario&lt;/b&gt;&lt;br&gt;Whitening / Social Confidence&lt;br&gt;Scenario: Office/Meeting" vertex="1">
+          <mxGeometry height="60" width="210" x="65" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="L1_Box" parent="L_Group" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;L1: Basic Info&lt;/b&gt;&lt;br&gt;Brand: EcoSmile | Price: Low&lt;br&gt;Mat: Baking Soda | Type: Instant" vertex="1">
+          <mxGeometry height="60" width="270" x="35" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Arr_Up" edge="1" parent="L_Group" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-10" y="320" as="sourcePoint" />
+            <mxPoint x="-10" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_Group" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="420" width="360" x="632.5" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="R_Funnel" parent="R_Group" style="triangle;whiteSpace=wrap;html=1;direction=south;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="320" width="300" x="30" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U3_Box" parent="R_Group" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;" value="&lt;b&gt;1. Intent Driver (Values)&lt;/b&gt;&lt;br&gt;User seeks &lt;b&gt;Achievement&lt;/b&gt;&lt;br&gt;&lt;i&gt;(Matching Item L3)&lt;/i&gt;" vertex="1">
+          <mxGeometry height="60" width="270" x="45" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="U2_Box" parent="R_Group" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;2. Desired Effect&lt;/b&gt;&lt;br&gt;Goal: Maintain Image Efficiently&lt;br&gt;&lt;i&gt;(Aligns with Item L2)&lt;/i&gt;" vertex="1">
+          <mxGeometry height="60" width="210" x="75" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="U1_Box" parent="R_Group" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;3. Concrete Requirements&lt;/b&gt;&lt;br&gt;Portable, Fast, Low Cost&lt;br&gt;&lt;i&gt;(Constraints for Item L1)&lt;/i&gt;" vertex="1">
+          <mxGeometry height="60" width="145" x="110" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Arr_Down" edge="1" parent="R_Group" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="60" as="sourcePoint" />
+            <mxPoint x="340" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Global_Input" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#f5f5f5;strokeColor=#666666;width=18;endSize=7.67;entryX=0.248;entryY=-0.08;entryDx=0;entryDy=0;entryPerimeter=0;" target="R_Header" value="&lt;b&gt;Context Input&lt;/b&gt;">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="80" />
+              <mxPoint x="600" y="80" />
+            </Array>
+            <mxPoint x="240" y="110" as="sourcePoint" />
+            <mxPoint x="760" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Align_L3" edge="1" parent="1" source="L3_Box" style="endArrow=classic;startArrow=classic;html=1;dashed=1;strokeWidth=2;entryX=0.004;entryY=0.623;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#b85450;entryPerimeter=0;" target="U3_Box" value="&lt;font color=&quot;#CC0000&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Value Align&lt;/b&gt;&lt;/font&gt;">
+          <mxGeometry height="50" relative="1" width="50" x="0.0063" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="440" y="220" as="sourcePoint" />
+            <mxPoint x="490" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Align_L2" edge="1" parent="1" source="L2_Box" style="endArrow=classic;startArrow=classic;html=1;dashed=1;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#d6b656;" target="U2_Box" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 153, 51); font-size: 12px;&quot;&gt;Effect Align&lt;/font&gt;&lt;/b&gt;">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="440" y="310" as="sourcePoint" />
+            <mxPoint x="490" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Align_L1" edge="1" parent="1" source="L1_Box" style="endArrow=classic;startArrow=classic;html=1;dashed=1;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#82b366;" target="U1_Box" value="&lt;b&gt;&lt;font style=&quot;color: rgb(19, 112, 15); font-size: 12px;&quot;&gt;Attribute Align&lt;/font&gt;&lt;/b&gt;">
+          <mxGeometry height="50" relative="1" width="50" x="0.0028" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="440" y="420" as="sourcePoint" />
+            <mxPoint x="490" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_Header" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" value="&lt;b&gt;USER INTENT INFERENCE&lt;/b&gt;&lt;br&gt;&lt;i&gt;Top-down Concretization&lt;/i&gt;" vertex="1">
+          <mxGeometry height="50" width="210" x="707.5" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UserHist" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#e1d5e7;strokeColor=#9673a6;size=15;" value="User History Log&lt;br&gt;&lt;i&gt;[Suit, Coffee, ...]&lt;/i&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="440" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Text_Down" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Prediction&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="957.5" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="Text_Up" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Reasoning&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="-11" y="305" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
