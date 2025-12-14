@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="第 1 页" id="9zPBGrFb92YVxAYmsp2X">
-    <mxGraphModel dx="1351" dy="816" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="1394" dy="672" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-111" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="256" width="805" x="263" y="2649" as="geometry" />
+        </mxCell>
         <mxCell id="2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=10;fontStyle=0;fontFamily=Times New Roman;fontSize=14;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;用户交互 Input&lt;/b&gt;&lt;br&gt;购买项目：始祖鸟 Alpha SV (硬壳)&lt;br&gt;&lt;i&gt;属性：Gore-Tex Pro, 保暖层, 昂贵&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="90" width="180" x="40" y="320" as="geometry" />
         </mxCell>
@@ -194,7 +197,7 @@
         <mxCell id="MqiZK5qouQK8nz9cUHh4-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;偏差结果：同质化冗余&lt;/b&gt;&lt;br&gt;推荐：xxxx老年狗粮&lt;br&gt;(Adult Beef Dog Food)&lt;br&gt;&lt;i style=&quot;&quot;&gt;错误：语义相似，重复已有需求&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="100" width="280" x="880" y="1988.75" as="geometry" />
         </mxCell>
-        <mxCell id="MqiZK5qouQK8nz9cUHh4-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;渴望结果：&lt;/b&gt;骨科记忆棉狗床 / 楼梯&lt;br&gt;(Orthopedic Bed / Pet Stairs)&lt;br&gt;&lt;i style=&quot;&quot;&gt;正确：解决老年狗“行动不便”的深层痛点&lt;/i&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;渴望结果：老年犬护理商品&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="300" x="580" y="1850" as="geometry" />
         </mxCell>
         <mxCell id="MqiZK5qouQK8nz9cUHh4-71" edge="1" parent="1" source="MqiZK5qouQK8nz9cUHh4-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MqiZK5qouQK8nz9cUHh4-59">
@@ -208,6 +211,92 @@
         </mxCell>
         <mxCell id="MqiZK5qouQK8nz9cUHh4-72" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;background-color: rgb(255, 53, 12);&quot;&gt;现有方法的局限性 (Limitation)&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="57.5" width="210" x="940" y="1860" as="geometry" />
+        </mxCell>
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-81" edge="1" parent="1" source="MqiZK5qouQK8nz9cUHh4-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MqiZK5qouQK8nz9cUHh4-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-108" edge="1" parent="1" source="MqiZK5qouQK8nz9cUHh4-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MqiZK5qouQK8nz9cUHh4-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-82" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=10;fontStyle=0;fontSize=14" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;用户交互 Input&lt;/b&gt;&lt;br&gt;购买：老年犬关节护理处方粮&lt;br&gt;(Senior Dog Joint Care Food)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="210" x="40" y="2717.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-83" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Type 1: 潜在变量建模&lt;/b&gt;&lt;br&gt;(Latent Variables Embedding)&lt;br style=&quot;&quot;&gt;&lt;i style=&quot;&quot;&gt;机制：序列聚类, 协同信号注意力聚合&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="95" width="230" x="320" y="2511.25" as="geometry" />
+        </mxCell>
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-84" edge="1" parent="1" source="MqiZK5qouQK8nz9cUHh4-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="MqiZK5qouQK8nz9cUHh4-96" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="320" y="2842.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-85" edge="1" parent="1" source="MqiZK5qouQK8nz9cUHh4-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MqiZK5qouQK8nz9cUHh4-86" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-86" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;捕捉到的意图意义：&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;狗粮的共现项目/&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;狗粮买家常购项目&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="82.5" width="210" x="600" y="2517.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-87" edge="1" parent="1" source="MqiZK5qouQK8nz9cUHh4-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#FF3333;" target="MqiZK5qouQK8nz9cUHh4-89" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-88" edge="1" parent="1" source="MqiZK5qouQK8nz9cUHh4-89" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#CC0000;dashed=1;dashPattern=8 8;endArrow=cross;endFill=0;" target="MqiZK5qouQK8nz9cUHh4-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-89" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;偏差结果：完全不可用&lt;/b&gt;&lt;br&gt;推荐：自动抛球机 / 飞盘&lt;br&gt;(Automatic Ball Launcher)&lt;br&gt;&lt;i style=&quot;&quot;&gt;错误：仅考虑了养狗群体公共信息，忽略个性需求&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="97.5" width="280" x="880" y="2510" as="geometry" />
+        </mxCell>
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-90" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;fontSize=13;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;捕捉到的意图：&lt;br&gt;&lt;b style=&quot;&quot;&gt;文本相似度 &amp;amp; 属性关键词&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&quot;老年 狗粮&quot;&lt;/b&gt;&lt;br&gt;Semantic: Dog Food, Meat&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="105" width="210" x="600" y="2950" as="geometry" />
+        </mxCell>
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-91" edge="1" parent="1" source="MqiZK5qouQK8nz9cUHh4-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#FF9900;" target="MqiZK5qouQK8nz9cUHh4-93" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-92" edge="1" parent="1" source="MqiZK5qouQK8nz9cUHh4-93" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=3;strokeColor=light-dark(#ff9900, #ededed);dashed=1;dashPattern=8 8;endArrow=cross;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="MqiZK5qouQK8nz9cUHh4-94">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="2767.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-93" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;偏差结果：同质化冗余&lt;/b&gt;&lt;br&gt;推荐：xxxx老年狗粮&lt;br&gt;(Adult Beef Dog Food)&lt;br&gt;&lt;i style=&quot;&quot;&gt;错误：语义相似，重复已有需求&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="280" x="880" y="2952.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-94" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" value="&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px;&quot;&gt;渴望结果：老年犬护理商品&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="100" x="1100" y="2737.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-95" edge="1" parent="1" source="MqiZK5qouQK8nz9cUHh4-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MqiZK5qouQK8nz9cUHh4-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-96" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontSize=14;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Type 2: 文本语义建模&lt;/b&gt;&lt;br&gt;(Textual Semantic Embedding)&lt;br&gt;&lt;i style=&quot;&quot;&gt;机制：评论语义, 属性文本编码&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="97.5" width="230" x="320" y="2953.75" as="geometry" />
+        </mxCell>
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-98" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;MEC 理论建模&lt;/b&gt;&lt;br&gt;(Means-End Chain)&lt;br&gt;&lt;i style=&quot;&quot;&gt;机制：属性-后果-价值 逻辑推理&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="230" x="275" y="2737.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Attributes (属性)&lt;/b&gt;&lt;br&gt;含葡萄糖胺/软骨素, 低热量&lt;br&gt;(Glucosamine / Low-Calorie)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="240" x="535" y="2657.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-109" edge="1" parent="1" source="MqiZK5qouQK8nz9cUHh4-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="MqiZK5qouQK8nz9cUHh4-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=14;" value="&lt;b&gt;Consequences (后果)&lt;/b&gt;&lt;br&gt;修复受损关节, 减轻骨骼负重&lt;br&gt;(Joint Repair / Load Reduction)" vertex="1">
+          <mxGeometry height="60" width="240" x="535" y="2747.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-101" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;fontStyle=1;fontFamily=Times New Roman;fontSize=14;" value="&lt;b&gt;Values (价值)&lt;/b&gt;&lt;br&gt;减轻爱宠痛苦, 舒适陪伴&lt;br&gt;(Relieve Pain / Comfort)" vertex="1">
+          <mxGeometry height="60" width="240" x="535" y="2837.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-110" edge="1" parent="1" source="MqiZK5qouQK8nz9cUHh4-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=doubleBlock;endFill=1;strokeWidth=3;strokeColor=#97D077;" target="MqiZK5qouQK8nz9cUHh4-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-102" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=14;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;理想结果：价值意图驱动&lt;/b&gt;&lt;br&gt;&lt;b style=&quot;&quot;&gt;推荐：&lt;/b&gt;骨科记忆棉狗床 / 宠物楼梯&lt;br&gt;&lt;b style=&quot;&quot;&gt;原因：&lt;/b&gt;基于“关爱与减痛”价值&lt;br&gt;解决“行动不便”的深层痛点&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="260" x="805" y="2732.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-103" edge="1" parent="1" source="MqiZK5qouQK8nz9cUHh4-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MqiZK5qouQK8nz9cUHh4-100" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-104" edge="1" parent="1" source="MqiZK5qouQK8nz9cUHh4-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MqiZK5qouQK8nz9cUHh4-100" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqiZK5qouQK8nz9cUHh4-106" edge="1" parent="1" source="MqiZK5qouQK8nz9cUHh4-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#00CC00;" target="MqiZK5qouQK8nz9cUHh4-102" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
