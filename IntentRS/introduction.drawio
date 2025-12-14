@@ -206,9 +206,6 @@
         <mxCell id="MqiZK5qouQK8nz9cUHh4-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontSize=14;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Type 2: 文本语义建模&lt;/b&gt;&lt;br&gt;(Textual Semantic Embedding)&lt;br&gt;&lt;i style=&quot;&quot;&gt;机制：评论语义, 属性文本编码&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="97.5" width="230" x="320" y="1990" as="geometry" />
         </mxCell>
-        <mxCell id="MqiZK5qouQK8nz9cUHh4-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;原理：将用户(序列) / 项目表示&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="82.5" width="210" x="590" y="1550" as="geometry" />
-        </mxCell>
         <mxCell id="MqiZK5qouQK8nz9cUHh4-72" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;background-color: rgb(255, 53, 12);&quot;&gt;现有方法的局限性 (Limitation)&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="57.5" width="210" x="940" y="1860" as="geometry" />
         </mxCell>
