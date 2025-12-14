@@ -1,0 +1,98 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
+  <diagram name="第 1 页" id="9zPBGrFb92YVxAYmsp2X">
+    <mxGraphModel dx="1113" dy="672" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=10;fontStyle=0;fontFamily=Times New Roman;fontSize=14;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;用户交互 Input&lt;/b&gt;&lt;br&gt;购买项目：始祖鸟 Alpha SV (硬壳)&lt;br&gt;&lt;i&gt;属性：Gore-Tex Pro, 保暖层, 昂贵&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="180" x="40" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="3" edge="1" parent="1" source="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="4" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Type 1: 潜在变量建模&lt;/b&gt;&lt;br&gt;(Latent Variables / ID Embedding)&lt;br&gt;&lt;i style=&quot;&quot;&gt;机制：序列聚类, 协同共现注意力&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="230" x="270" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5" edge="1" parent="1" source="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontSize=14;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Type 2: 文本语义建模&lt;/b&gt;&lt;br&gt;(Textual Semantic Embedding)&lt;br&gt;&lt;i&gt;机制：评论语义, 属性文本编码&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="220" x="270" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="7" edge="1" parent="1" source="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;fontSize=14;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Ours: MEC 理论建模&lt;/b&gt;&lt;br&gt;(Means-End Chain)&lt;br&gt;&lt;i&gt;机制：属性-后果-价值 逻辑推理&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="230" x="270" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="9" edge="1" parent="1" source="4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;捕捉到的特征：&lt;br&gt;&lt;b style=&quot;&quot;&gt;共现群体（数据稀疏）&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="220" x="540" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="11" edge="1" parent="1" source="10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#FF3333;" target="12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=14;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;偏差结果：共现稀疏&lt;/b&gt;&lt;br&gt;推荐：限量版 Yeezy 潮鞋&lt;br&gt;&lt;i&gt;原因：&lt;/i&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;i&gt;很多共同交互用户同时也买潮鞋&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="85" width="210" x="800" y="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="13" edge="1" parent="1" source="6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;捕捉到的特征：&lt;br&gt;&lt;b style=&quot;&quot;&gt;文本相似度 &amp;amp; 属性关键词&lt;/b&gt;&lt;br&gt;Embedding接近&quot;Waterproof&quot;, &quot;Jacket&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="220" x="540" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="15" edge="1" parent="1" source="14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#FF9900;" target="16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;偏差结果：功能冗余&lt;/b&gt;&lt;br&gt;推荐：普通防雨夹克 / 软壳衣&lt;br&gt;&lt;i style=&quot;&quot;&gt;原因：陷入语义相似性陷阱&lt;br&gt;买了外壳不需要再买一件外壳&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="800" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="17" edge="1" parent="1" source="8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#00CC00;" target="20" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="580" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontFamily=Times New Roman;fontSize=14;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;理想结果：逻辑互补&lt;/b&gt;&lt;br&gt;推荐：中间层抓绒衣 / 登山冰镐&lt;br&gt;&lt;i&gt;原因：基于“高海拔生存”价值&lt;br&gt;构建完整的装备系统&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="75" width="220" x="800" y="542.5" as="geometry" />
+        </mxCell>
+        <mxCell id="21" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;i style=&quot;background-color: rgb(255, 53, 12);&quot;&gt;现有方法的局限性 (Limitation)&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="810" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="b_mUwy84DP-VDZX-NtwP-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Attributes (属性)&lt;/b&gt;&lt;br&gt;Gore-Tex Pro, 防风, 坚固耐磨&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="220" x="540" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="b_mUwy84DP-VDZX-NtwP-24" edge="1" parent="1" source="b_mUwy84DP-VDZX-NtwP-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="b_mUwy84DP-VDZX-NtwP-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b_mUwy84DP-VDZX-NtwP-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Consequences (后果)&lt;/b&gt;&lt;br&gt;应对极端天气, 保持失温底线&lt;/font&gt;" vertex="1">
+          <mxGeometry height="55" width="220" x="540" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="b_mUwy84DP-VDZX-NtwP-26" edge="1" parent="1" source="b_mUwy84DP-VDZX-NtwP-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="b_mUwy84DP-VDZX-NtwP-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b_mUwy84DP-VDZX-NtwP-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontFamily=Times New Roman;fontSize=14;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Values (价值)&lt;/b&gt;&lt;br&gt;追求极限, 专业主义, 安全感&lt;br&gt;(Professionalism / Survival)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="220" x="540" y="640" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
