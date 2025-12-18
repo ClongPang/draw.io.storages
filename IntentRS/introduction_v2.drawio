@@ -478,6 +478,27 @@
         <mxCell id="v3CvmmvhlqRgWSkkQcPg-174" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 19px;&quot;&gt;混合意图&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="630" y="3598.75" as="geometry" />
         </mxCell>
+        <mxCell id="N2K6-cffkLvjkIvfX93m-1" edge="1" parent="1" source="N2K6-cffkLvjkIvfX93m-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N2K6-cffkLvjkIvfX93m-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N2K6-cffkLvjkIvfX93m-2" edge="1" parent="1" source="N2K6-cffkLvjkIvfX93m-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="N2K6-cffkLvjkIvfX93m-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N2K6-cffkLvjkIvfX93m-4" edge="1" parent="1" source="N2K6-cffkLvjkIvfX93m-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="N2K6-cffkLvjkIvfX93m-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N2K6-cffkLvjkIvfX93m-7" parent="1" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="255" width="280" x="529" y="4269" as="geometry" />
+        </mxCell>
+        <mxCell id="N2K6-cffkLvjkIvfX93m-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Level1: Attributes (属性)&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="55" width="270" x="534" y="4463.5" as="geometry" />
+        </mxCell>
+        <mxCell id="N2K6-cffkLvjkIvfX93m-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=14;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Level2: Consequences (后果)&lt;/b&gt;&lt;br&gt;功能性利益 / 心理性利益&lt;/font&gt;" vertex="1">
+          <mxGeometry height="53.5" width="228" x="555.5" y="4382" as="geometry" />
+        </mxCell>
+        <mxCell id="N2K6-cffkLvjkIvfX93m-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;fontStyle=1;fontFamily=Times New Roman;fontSize=14;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Level3: Values (价值)&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;价值:价值目标需求&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="42.5" width="187" x="576" y="4311" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
