@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.2">
   <diagram name="第 1 页" id="IpTJHiSWYvRxMQ3MjoNm">
-    <mxGraphModel dx="3153" dy="2417" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3153" dy="2303" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,12 +96,6 @@
         </mxCell>
         <mxCell id="50" parent="1" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=39;align=center;verticalAlign=middle;overflow=visible;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 47px;&quot;&gt;欺诈者&amp;nbsp;&lt;/font&gt;" vertex="1">
           <mxGeometry height="68" width="171" x="152.25" y="581" as="geometry" />
-        </mxCell>
-        <mxCell id="lNOJ23d3w2lQeQJR3fzj-104" edge="1" parent="1" source="51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="21" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="51" parent="1" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=63;align=center;verticalAlign=middle;overflow=visible;" value="总问题的难" vertex="1">
-          <mxGeometry height="57" width="255" x="1292" y="592" as="geometry" />
         </mxCell>
         <mxCell id="52" parent="1" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=58;align=center;verticalAlign=middle;overflow=visible;" value="被诈者" vertex="1">
           <mxGeometry height="53.04" width="154" x="2501.5" y="592.48" as="geometry" />
