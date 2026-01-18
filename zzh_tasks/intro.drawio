@@ -163,8 +163,8 @@
         <mxCell id="73" parent="1" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=62;align=center;verticalAlign=middle;overflow=visible;" value="&lt;span style=&quot;font-size: 63px;&quot;&gt;多模态异常检测&lt;/span&gt;" vertex="1">
           <mxGeometry height="88" width="459" x="1178" y="1414.25" as="geometry" />
         </mxCell>
-        <mxCell id="74" parent="1" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=62;align=center;verticalAlign=middle;overflow=visible;" value="表里合一" vertex="1">
-          <mxGeometry height="56" width="208" x="2260" y="1418.49" as="geometry" />
+        <mxCell id="74" parent="1" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=62;align=center;verticalAlign=middle;overflow=visible;" value="表里一致" vertex="1">
+          <mxGeometry height="86" width="266" x="2231" y="1403.49" as="geometry" />
         </mxCell>
         <mxCell id="lNOJ23d3w2lQeQJR3fzj-74" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 47px;&quot;&gt;AI深度伪造&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="70" width="260" x="440" y="580" as="geometry" />
